@@ -39,3 +39,9 @@ Tada 🎉
 
 ## This is awesome; thank you so much, Tyler!!
 Hehe, you're very welcome 😊
+
+## Demo 🎯
+
+<p align="center">
+  <img src="https://i.imgur.com/uwSm71o.gif">
+</p>
