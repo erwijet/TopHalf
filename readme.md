@@ -1,7 +1,7 @@
 # TopHalf
 
 ## Um, what is it?? 😵
-`TopHalf` is a free, open-sourced binary build in C++ on top of the Windows API. Have you ever needed to snap one window on the top half of your screen, and another window on the bottom? `TopHalf` let's you do just that.
+`TopHalf` is a free, open-sourced binary built in C++ on top of the Windows API. Have you ever needed to snap one window on the top half of your screen, and another window on the bottom? `TopHalf` let's you do just that.
 
 ## But is it safe? How are you moving windows?? 😨👾
 `User32.dll` contains functionality to interact with the windows on Windows. TopHalf simply sets up keyboard listeners and invokes commands from the native `user32.dll` library to move around the windows on your screen.
