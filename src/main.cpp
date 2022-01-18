@@ -1,8 +1,8 @@
 ﻿/*
-* TopDown
+* TopHalf
 * 
 * Author: Tyler Holewinski (tsh6656@rit.edu)
-* GitHub: https://github.com/erwijet/topdown
+* GitHub: https://github.com/erwijet/tophalf
 * Created: Sat 01/15/2022
 */
 
